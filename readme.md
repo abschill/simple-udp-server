@@ -1,1 +1,1 @@
-UDP Pingpong Demo in C
+UDP Pingpong Demo in C (run on seperate machines)
